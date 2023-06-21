@@ -1,4 +1,4 @@
-# 笨办法学C 中文版
+# 笨办法学 C 中文版
 
 来源：[Learn C The Hard Way](http://c.learncodethehardway.org/book/)
 
@@ -11,10 +11,9 @@
 > **一句 MMP 送给在座的各位程序正义垃圾。**
 
 + [在线阅读](https://lcthw.apachecn.org)
-+ [在线阅读（Gitee）](https://apachecn.gitee.io/lcthw-zh/)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/lcthw)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw)
++ [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw)
++ [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/lcthw)
++ [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw)
 + [Github](https://github.com/wizardforcel/lcthw-zh)
 
 ## 下载
@@ -24,14 +23,6 @@
 ```
 docker pull apachecn0/lcthw-zh
 docker run -tid -p <port>:80 apachecn0/lcthw-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install lcthw-zh
-lcthw-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
