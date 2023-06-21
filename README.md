@@ -10,7 +10,7 @@
 
 > **一句 MMP 送给在座的各位程序正义垃圾。**
 
-+ [在线阅读](https://lcthw.apachecn.org)
++ [在线阅读](https://lcthw.flygon.net)
 + [PDF 格式](https://www.gitbook.com/download/pdf/book/wizardforcel/lcthw)
 + [EPUB 格式](https://www.gitbook.com/download/epub/book/wizardforcel/lcthw)
 + [MOBI 格式](https://www.gitbook.com/download/mobi/book/wizardforcel/lcthw)
